@@ -94,7 +94,7 @@ section > h2 {
 /* Home Section */
 #home {
   background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(./Images/dance.jpg) no-repeat top / cover;
+    url(./images/dance.jpg) no-repeat top / cover;
   height: 60vh;
   color: var(--text-light);
   display: grid;
